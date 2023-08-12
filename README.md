@@ -1,1 +1,1 @@
-# nlp-foundations
+# NLP Foundations
